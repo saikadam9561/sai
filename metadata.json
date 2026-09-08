@@ -1,0 +1,7 @@
+{
+  "name": "KisanSetu - Smart Farmer Procurement & Wait-Time Predictor",
+  "description": "Predictive agricultural procurement management system that reduces farmer waiting times with live crowd analytics, smart token slots, multi-lingual AI voice assistant, digital produce tracking, and instant DBT payment reconciliation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
